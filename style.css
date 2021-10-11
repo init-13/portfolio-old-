@@ -46,6 +46,12 @@
   font-style: italic;  
   color: rgba(255,255,25,0.05)  
  }  
+
+#Resume{
+  position: absolute;
+  top:15%;  
+  left: 63%; 
+ }
  .container .card .imgBx{  
   position: absolute;  
   top: 50%;  
